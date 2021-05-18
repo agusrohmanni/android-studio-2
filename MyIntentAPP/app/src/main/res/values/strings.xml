@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyIntentAPP</string>
+    <string name="pindah_activity">PINDAH ACTIVITY</string>
+    <string name="ini_adalah_move_activity">INI ADALAH MOVE ACTIVITY</string>
+    <string name="kelas_awal">KELAS AWAL</string>
+    <string name="pindah_dengan_data">PINDAH DENGAN DATA</string>
+    <string name="terima_data">TERIMA DATA</string>
+    <string name="data_satu">DATA SATU</string>
+    <string name="kembali">KEMBALI</string>
+</resources>
